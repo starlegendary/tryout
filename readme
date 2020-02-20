@@ -1,0 +1,13 @@
+'''
+Goal:
+1. Create a basic 9x9 board that obeys sudoku's rule
+2. Create a set of morphism on the 9x9 board through rotation
+3. Combine morphisms that allow basic movements of the 9x9 board
+4. Proof if any given board can be solved by these movements
+
+sudoku_movement.py
+involve all kind of movement avaiable for modifying the sudoku
+
+checksudoku.py
+check if the sodoku is valid
+'''
